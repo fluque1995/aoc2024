@@ -1,5 +1,6 @@
 import re
 
+
 def read_input():
     with open("inputs/day3.txt", "r") as fin:
         return fin.read().rstrip()
