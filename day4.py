@@ -1,6 +1,5 @@
 import itertools
 
-
 def parse_input():
     charmap = []
     with open("inputs/day4.txt", "r") as fin:
